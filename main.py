@@ -11,6 +11,7 @@ for sklep in sklepy:
 print("W sumie kupuję", count, "produktów")
 print('pierwszy commit')
 print('drugi commit')
+print('text z pycharm')
 
 #a = [11,122,12,32,10,43,23,53,123,54,24]
 #print(' > '.join([str(ae) for ae in a]))
